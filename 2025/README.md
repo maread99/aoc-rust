@@ -1,5 +1,7 @@
 # 2025 aoc solutions in Rust
 
+See the [main README](https://github.com/maread99/aoc-rust) for notes on how I go about aoc. There are also some decent references there for resources.
+
 ## Reference
 
 ### Summary of key features of solutions
