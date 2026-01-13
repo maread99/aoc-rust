@@ -5,7 +5,7 @@
 
 I aim for intelligible solutions and solve parts a and b separately. I solve first [here](https://github.com/maread99/aoc) in Python and then attempt to write solutions here that are idiomatic Rust rather than simply converting the Python code.
 
-After solving I might write a <span style="font-weight:bold; color:rgb(235, 220, 45)">rev</span>ised version to learn a better way of doing it or an <span style="font-weight:bold; color:rgb(235, 220, 45)">alt</span>ernative version to learn a different way of doing it (references included where these were inspired by someone else's solution).
+After solving I might write a **rev**ised version to learn a better way of doing it or an **alt**ernative version to learn a different way of doing it (references included where these were inspired by someone else's solution).
 
 The README for each year serves as a reference of the key features of each solution.
 
